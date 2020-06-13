@@ -5,7 +5,7 @@ entorno.
 
 Sigue los pasos descritos en esta pagina para realizarlo: https://www.tutorialkart.com/dart/install-dart-on-windows/#:~:text=To%20run%20dart%20command%20from,Edit%20environment%20variable%20window%20appears.
 
-Una vez listo esto, en la consola de Windows podemos ejecutar el comando "dart" desde cualquier directorio.![cmd_2020-06-08_16-17-35](C:\Users\Ryzen\Documents\ShareX\Screenshots\2020-06\cmd_2020-06-08_16-17-35.png)
+Una vez listo esto, en la consola de Windows podemos ejecutar el comando "dart" desde cualquier directorio.![cmd_2020-06-08_16-17-35](https://raw.githubusercontent.com/alanmoraales/grafo-dart/master/img/1.jpeg)
 
 Una vez descargado el programa ejemplo, mantén todos los archivo del archivo en una carpeta y copia el directorio
 

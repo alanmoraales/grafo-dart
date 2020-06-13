@@ -9,15 +9,15 @@ Una vez listo esto, en la consola de Windows podemos ejecutar el comando "dart" 
 
 Una vez descargado el programa ejemplo, mantén todos los archivo del archivo en una carpeta y copia el directorio
 
-![explorer_2020-06-08_16-18-56](C:\Users\Ryzen\Documents\ShareX\Screenshots\2020-06\explorer_2020-06-08_16-18-56.png)
+![explorer_2020-06-08_16-18-56](https://raw.githubusercontent.com/alanmoraales/grafo-dart/master/img/2.jpeg)
 
 En el cmd, escribe "pushd", un espacio y después pega el directorio.
 
-![Typora_2020-06-08_16-20-14](C:\Users\Ryzen\Documents\ShareX\Screenshots\2020-06\Typora_2020-06-08_16-20-14.png)
+![Typora_2020-06-08_16-20-14](https://raw.githubusercontent.com/alanmoraales/grafo-dart/master/img/3.jpeg)
 
 Ahora escribe "dart main.dart" y listo!
 
-![cmd_2020-06-08_16-21-03](C:\Users\Ryzen\Documents\ShareX\Screenshots\2020-06\cmd_2020-06-08_16-21-03.png)
+![cmd_2020-06-08_16-21-03](https://raw.githubusercontent.com/alanmoraales/grafo-dart/master/img/4.jpeg)
 
 
 
